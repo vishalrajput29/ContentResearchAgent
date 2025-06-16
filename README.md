@@ -48,7 +48,7 @@ This project uses **CrewAI Agents**, **LangChain Tools**, and **Streamlit** to d
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. GroqAPI |
+| `api_key` | `string` | **Required**. OPENAPI |
 
 
 
