@@ -54,7 +54,4 @@ This project uses **CrewAI Agents**, **LangChain Tools**, and **Streamlit** to d
 
 
 
-## Project Demo
-
-https://drive.google.com/file/d/15vQwak3p4TmzlpRSbqml5bzc3E_DTqbQ/view?usp=sharing
 
